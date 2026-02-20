@@ -1,6 +1,5 @@
-import './App.css';
 import { useForm, useFieldArray } from 'react-hook-form';
-import { Input, TextArea } from './utils/Input';
+import { Input, TextArea } from '../utils/Input';
 type FormValues = {
   title: string;
   recipe?: string;

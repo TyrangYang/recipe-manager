@@ -1,5 +1,5 @@
 import './App.css';
-import CreateRecipe from './CreateRecipe';
+import CreateRecipe from './CreateRecipe/CreateRecipe';
 
 function App(): JSX.Element {
   return (
